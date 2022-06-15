@@ -1,6 +1,6 @@
 package com.learning.dp2.strategy.v3;
 
-public class Client {
+public class SimpleFactoryClient {
     public static void main(String[] args) {
         double totalPayment = 0.0;
         double price = 0.0;
